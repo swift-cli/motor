@@ -3,7 +3,7 @@
     "pins": [
       {
         "package": "ANSIEscapeCode",
-        "repositoryURL": "https://github.com/flintbox/ANSIEscapeCode",
+        "repositoryURL": "https://github.com/swift-cli/ansi-escape-code",
         "state": {
           "branch": null,
           "revision": "892f5f3067ea4c029af05cb45efb3b6a3be2f838",

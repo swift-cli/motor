@@ -3,14 +3,14 @@
 import PackageDescription
 
 let package = Package(
-    name: "Motor",
+    name: "motor",
     products: [
         .library(
             name: "Motor",
             targets: ["Motor"]),
     ],
     dependencies: [
-        .package(url: "https://github.com/flintbox/ANSIEscapeCode", from: "0.1.1"),
+        .package(url: "https://github.com/swift-cli/ansi-escape-code", from: "0.1.1"),
     ],
     targets: [
         .target(
